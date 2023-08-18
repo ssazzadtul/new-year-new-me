@@ -1,0 +1,160 @@
+* {
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+
+
+.header {
+    text-align: right;
+    background-image: url(/images/banner/banner3.png);
+    /* width: 2000px;
+    height: 808px; */
+    /* background-size: auto; */
+    background-repeat: no-repeat;
+    /* height: 800px; */
+    background-size: 100% 100%;
+    margin-bottom: 100px;
+}
+
+.header-div {
+    padding-left: 600px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-right: 200px;
+}
+
+.header-h2 {
+    color: #FFF;
+    font-size: 65px;
+    font-weight: 700;
+    text-align: right;
+    margin-bottom: 30px;
+}
+
+.header-p {
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 30px;
+
+}
+
+.primary-btn {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #FFF;
+}
+
+
+/* main file start */
+.main {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    gap: 60px;
+    padding-top: 100px;
+    padding-bottom: 1 00px;
+    margin-bottom: 150px;
+}
+
+.main-h2 {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.main-p {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+/* section alll */
+.myplans {
+    text-align: center;
+    margin-bottom: 100px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+
+
+.section-div {
+    display: flex;
+    gap: 50px;
+    text-align: center;
+    align-content: center;
+    padding-left: 150px;
+}
+
+.section-div-title {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 20px;
+
+}
+
+.section-p {
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 100px;
+}
+
+.section-div-bg {
+    background-image: url(/images/watch.png);
+    background-repeat: no-repeat;
+    margin-bottom: 200px;
+    padding-left: 100px;
+}
+
+.bg-h2 {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 29px;
+}
+
+.footer {
+    display: flex;
+    gap: 50px;
+    padding-left: 200px;
+    background-color: #000000;
+    padding-top: 200px;
+    padding-right: 200px;
+    padding-right: 200px;
+    padding-bottom: 200px;
+}
+
+.ft-btn {
+    background-color: blue;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+span {
+    color: #FFF;
+}
+
+.footer-title {
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 40px;
+
+}
+
+.ftp {
+    color: #FFF;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
